@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478562347 source:c:\users\samet\desktop\programlama\prolab1_odevi_paint\main.cpp
+	<graphics.h>
+	<math.h>
+	<locale.h>
+
